@@ -1,0 +1,7 @@
+Separação de dados titular confidencial:
+
+Empresas (CNPJ):
+
+Sócios (CPF):
+
+Funcionários (CPF):

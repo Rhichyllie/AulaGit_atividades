@@ -1,0 +1,9 @@
+Coletamento de informações sobre cada empresa.
+
+Requer:
+1- Nome
+2- Função da empresa
+3- CNPJ
+4- Quantidade de sócios
+5- Quantidade de funcionários 
+6- Rendimento anual

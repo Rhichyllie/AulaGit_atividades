@@ -1,0 +1,10 @@
+Levantamento de dados:
+
+1- Quantidade de empresas
+2- Quantidade media de sócios por empresa
+3- Quantidade media de funcionários
+4- Renda média (anual) das empresas
+4- Renda média (anual) dos sócios
+5- Renda média (anual) dos funcionários
+6- Total médio de horas & dias trabalhados pelos sócios
+7- Total médio de horas & dias trabalhados pelos funcionários

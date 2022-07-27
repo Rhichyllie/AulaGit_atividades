@@ -1,0 +1,10 @@
+Coletamento de informações sobre cada funcionário.
+
+Requer:
+1- Nome
+2- Função na empresa
+3- CPF
+4- Data de incio da contratação
+5- Quantidade de horas por dia, trabalhadas 
+6- Quantidade de dias trabalhados no mês
+7- Rendimento anual
