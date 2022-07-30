@@ -7,3 +7,4 @@ Requer:
 4- Quantidade de sócios
 5- Quantidade de funcionários 
 6- Rendimento anual
+7- Contrato social ou requerimento do empresário

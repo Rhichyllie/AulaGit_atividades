@@ -8,3 +8,5 @@ Levantamento de dados:
 5- Renda média (anual) dos funcionários
 6- Total médio de horas & dias trabalhados pelos sócios
 7- Total médio de horas & dias trabalhados pelos funcionários
+8- Total de patrimônio material por empresa
+9- Total de patrimônio imaterial por empresa

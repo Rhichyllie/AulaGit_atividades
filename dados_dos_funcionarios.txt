@@ -8,3 +8,4 @@ Requer:
 5- Quantidade de horas por dia, trabalhadas 
 6- Quantidade de dias trabalhados no mês
 7- Rendimento anual
+8- Especializações
