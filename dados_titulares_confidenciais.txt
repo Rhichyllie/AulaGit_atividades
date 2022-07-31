@@ -2,6 +2,6 @@ Separação de dados titular confidencial:
 
 Empresas (CNPJ):
 
-Sócios (CPF):
+Sócios (CPF): "Incluindos terceirizados"
 
 Funcionários (CPF):
